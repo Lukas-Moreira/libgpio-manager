@@ -1,0 +1,8 @@
+Package: libgpio-manager
+Version: 1.0.0
+Section: libs
+Priority: optional
+Architecture: amd64
+Maintainer: Lukas L. Moreira (lukasmoreira@ufam.edu.br)
+Description: GPIO manager library (C++), used with MRAA
+Depends: libc6 (>= 2.31)
