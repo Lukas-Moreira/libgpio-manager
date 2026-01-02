@@ -1,17 +1,24 @@
-Date: Fri, 02 Jan 2026 16:09:05 +0000
+Architectures: arm64
+Codename: stable
+Components: main
+Date: Fri, 02 Jan 2026 16:26:04 +0000
+Description: Repositorio APT assinado - libgpio-manager
+Label: libgpio-manager
+Origin: lukas-moreira
+Suite: stable
 MD5Sum:
- d77d89fbb1b0f29be1e6e9f646f42021               38 Release
+ 1510c0a095755a75d8f36dd296825ddc              208 Release
  f22bea841964d2ef3ad4cb99b72451ac              455 main/binary-arm64/Packages
- db10bee6ee484ed0ffd2db078ab68e8a              362 main/binary-arm64/Packages.gz
+ 5fc28d9402cbd48f71ae010560fabb09              362 main/binary-arm64/Packages.gz
 SHA1:
- ce2dcfd8c1da07b45f803ee39db68b0bba13fabd               38 Release
+ ab31492febce9e5b8dcbd84cb20163051f93e562              208 Release
  aac08d40f2d2c135c03d0dc25cb2cc8b1d80c293              455 main/binary-arm64/Packages
- 89fc28339b1f084cebc617f6bed82bbc9748737e              362 main/binary-arm64/Packages.gz
+ 8a99806277da43b885a67fc75dca3ce8443db9e7              362 main/binary-arm64/Packages.gz
 SHA256:
- ad41715e75462011e4e11f08bee41663ceac094969b9f787db4d4b052f921eaa               38 Release
+ f6ca442c740ec127f27ef1d240da5d1428276dc4ef3abb13ac65064cc1289f0c              208 Release
  82e2fe7101e27f1748f6c58b5f392d94e02bf39418e54a1e4a29f9e9ce579602              455 main/binary-arm64/Packages
- 857d43120898438e7eb42fbf8d7a179ae0ae76e9b9d070617c7e2b1505bb7a68              362 main/binary-arm64/Packages.gz
+ 4c7c0bd44b6b3f48852b5a9782df8fa484c986a4032ba455b0d85305660f6f48              362 main/binary-arm64/Packages.gz
 SHA512:
- ad3258eeba58e101b25cee15934289bde8b3aabc74f5eef1d19d98e71fc7f26f7a263b6e5cd1cbf5d4dfc56f5363e896dbf6ad44f2c446f4b7a870ed24a785f7               38 Release
+ 34e99075fa54d9db43e9186380e6d07de71b2b763b0be8358b6b50744541f1a7a9f0af897091274912971b25894e36521cd3c7e1523c50c5cac300c9d9dfac8e              208 Release
  3783ce216074c61b81bfc76e4be9218757b3044e6c8820b6a818e21243fe93cb7d90059ba4897cf1cb1120031168049870a1d400c63464675277934bea33b7e4              455 main/binary-arm64/Packages
- f538172bb04b868756552f928fc6aef521b8f801974067e31d7f4575861129be8113ba21ab37cad8a48c3f1ed678afb72d4d6de5bc2a7b09b1dded4928f05788              362 main/binary-arm64/Packages.gz
+ 0eca5aae445ed025c335734323fb6e17aabd6ae51e1270359190e6c3cad125c0e4d2a707ab3870561a63ff16c26fede9a29ff0b1c37dd11926c1bfe2bb17824a              362 main/binary-arm64/Packages.gz
