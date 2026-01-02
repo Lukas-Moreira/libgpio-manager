@@ -1,13 +1,13 @@
 Package: libgpio-manager
 Version: 1.0.0
-Architecture: arm64
+Architecture: amd64
 Maintainer: CPS Connections <adm@cpsconnections.com>
 Depends: libc6 (>= 2.31)
 Filename: pool/main/libgpio-manager_1.0.0_arm64.deb
-Size: 5084
-MD5sum: 2a6f8adc9f8f67d4d6657caa5bc62a2a
-SHA1: 5ea57ed47849ad8c17fe8ee49f70263d16371814
-SHA256: d7779166589e36fd386b67e660b0227433b044fbc3ebd14d8cef4ea0b18bbae6
+Size: 5086
+MD5sum: 8632ad13e98a71d256671f70ac3ba66c
+SHA1: dbbed93067a7899a909ff49543f3c2d5fa2ba4ad
+SHA256: 9ec42b7e8c401c67e4c5f72e5622e9eeb9b040e715e2e25a415f07e5ac18577c
 Section: libs
 Priority: optional
 Description: GPIO manager library (C++), used with MRAA
