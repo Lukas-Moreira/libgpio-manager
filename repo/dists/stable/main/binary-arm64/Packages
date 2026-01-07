@@ -1,0 +1,15 @@
+Package: libgpio-manager
+Version: 1.0
+Architecture: arm64
+Maintainer: Lukas L. Moreira
+Installed-Size: 268
+Depends: libgpiod2
+Filename: pool/main/libgpio-manager_1.0_arm64.deb
+Size: 19554
+MD5sum: 74275ad782e4345ef7a3c221f41ebe5b
+SHA1: 3fe939e26905b884088656f76ca12bfb57bffe00
+SHA256: 2d1e50c05f10ac08f84e426626dde4ec113673c99ce92ebcc7fed69ff6e46a85
+Section: devel
+Priority: optional
+Description: gpio_manager built using CMake
+
