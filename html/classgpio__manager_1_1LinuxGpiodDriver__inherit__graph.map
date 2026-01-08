@@ -1,7 +1,0 @@
-<map id="gpio_manager::LinuxGpiodDriver" name="gpio_manager::LinuxGpiodDriver">
-<area shape="rect" id="Node000001" title=" " alt="" coords="105,281,340,697"/>
-<area shape="rect" id="Node000002" href="$classgpio__manager_1_1IGpioDriver.html" title=" " alt="" coords="5,20,208,219"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="144,231,160,280,155,282,139,233"/>
-<area shape="rect" id="Node000003" href="$classgpio__manager_1_1IGpioNamedDriver.html" title=" " alt="" coords="233,5,445,233"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="301,247,291,282,285,280,296,246"/>
-</map>
