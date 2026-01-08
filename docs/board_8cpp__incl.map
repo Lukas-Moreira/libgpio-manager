@@ -1,0 +1,10 @@
+<map id="src/board.cpp" name="src/board.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="6,5,115,31"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="68,167,127,192"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="48,33,29,53,13,80,8,99,13,117,32,141,57,158,54,163,29,145,9,120,3,99,9,78,25,50,44,29"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="24,86,97,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="63,31,63,72,58,72,58,31"/>
+<area shape="rect" id="Node000004" href="$board_8hpp.html" title=" " alt="" coords="122,79,300,119"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="84,28,164,70,161,75,81,33"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="185,121,127,161,124,156,182,117"/>
+</map>
